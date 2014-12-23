@@ -3,5 +3,5 @@ description: A sample application
 dependencies:
   browser: any
   renderer:
-    path: C:\Users\adam\dart\renderer
+    path: /Users/adam.poit/dart/renderer
   vector_math: any

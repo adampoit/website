@@ -3,5 +3,5 @@ description: A sample application
 dependencies:
   browser: any
   renderer:
-    path: /Users/adam.poit/dart/renderer
+    path: /Users/adam.poit/Desktop/website/renderer
   vector_math: any
